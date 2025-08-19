@@ -8,6 +8,7 @@ Each folder represents one day's practice, covering basic to advanced problems.
 - Day 2 → Basic Array programs
 - Day 3 → Intermediate Array programs
 - Day 4 → Basic String programs
+- Day 5 → Intermediate String programs
 
 ## Goal
 Improve problem-solving skills in Java before moving to advanced topics.
